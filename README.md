@@ -10,6 +10,7 @@ using principal component analysis to build a model for face recognition
 
 ## Usage
 Clone the repository and navigate to the downloaded folder and run the following commands
+
 `python3 PCA_Face_Recognition.py`
 
 
